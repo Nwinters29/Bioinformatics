@@ -23,6 +23,7 @@
 + RPubs
 
 ## Scripts:
+Note: current scripts were inspired and apapted from the [Bioinformagician](https://www.youtube.com/@Bioinformagician) youtube channel
 
 ### Data Retrieving and Manipulation
 
