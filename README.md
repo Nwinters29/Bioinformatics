@@ -5,9 +5,6 @@ Compilation of scripts pertaining to the field of Bioinformatics.
 ### R
 R scripts used for cleaning and analysis
 
-### Python
-Python scripts used for cleaning and analysis 
-
 ### Unix
 Documentation of shell commands
 
