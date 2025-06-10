@@ -6,12 +6,19 @@
 + Trimmomatic
 + HISAT2
 + featureCounts
++ bwa
++ samtools
++ bcftools
 
 ## Scripts:
-Note: current script was inspired and apapted from the [Bioinformagician](https://www.youtube.com/@Bioinformagician) youtube channel
+Note: current RNAseq script was inspired and apapted from the [Bioinformagician](https://www.youtube.com/@Bioinformagician) youtube channel
 
 ### RNAseq Analysis
 
 Includes:
 + Shell script of an RNAseq pipeline for creating a count matrix from a fastq file.
 
+### Variant Calling
+
+Includes:
++ Shell script of a very basic variant calling pipeline that takes as input FASTQ files and outputs a VCF file.
